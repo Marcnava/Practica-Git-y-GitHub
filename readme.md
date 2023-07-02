@@ -57,4 +57,7 @@ commit de title tiene todos los cambios nuevos
 HASH
 - git reset id-commit para volver al estado final
 
-![[../Captura de pantalla 2023-07-03 a las 0.49.21.png]]
+!![Git 
+graph](https://github.com/Marcnava/Practica-Git-y-GitHub/blob/main/Captura 
+de pantalla 2023-07-03 a las 0.49.21.png?raw=true)
+
