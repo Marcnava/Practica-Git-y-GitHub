@@ -1,8 +1,8 @@
-#PRIMERA PRÁCTICA DEL BOOTCAMP MOVILE EN *KEEPCODING*
+# PRIMERA PRÁCTICA DEL BOOTCAMP MOVILE EN *KEEPCODING*
 
-##Git y GitHub
+## Git y GitHub
 
-###Preguntas de la práctica:
+### Preguntas de la práctica:
 
 ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 - git reset --hard HEAD~1 para vovler al commit anterior y con "--hard" 
