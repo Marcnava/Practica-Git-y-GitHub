@@ -56,3 +56,5 @@ commit de title tiene todos los cambios nuevos
 - git reflog para localizar el commit donde puse el título y copiar su 
 HASH
 - git reset id-commit para volver al estado final
+
+![[../Captura de pantalla 2023-07-03 a las 0.49.21.png]]
