@@ -58,6 +58,7 @@ HASH
 - git reset id-commit para volver al estado final
 
 Así quedaría el graph:
+
 ![Git 
 graph](https://github.com/Marcnava/Practica-Git-y-GitHub/blob/main/Captura%20de%20pantalla%202023-07-03%20a%20las%200.49.21.png?raw=true)
 
