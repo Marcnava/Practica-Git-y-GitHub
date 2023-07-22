@@ -6,7 +6,7 @@
   <ol>
     <li><a href="#tecnologías-utilizadas">Stack - Tecnologías utilizadas</a></li>
     <li><a href="#qué-he-aprendido">Qué he aprendido</a></li>
-    <li><a href="#objetivo">Objetivo práctica></li>
+    <li><a href="#objetivo">Objetivo práctica</li>
     <li><a href="#ejercicio-de-la-práctica">Ejercicio práctica</a></li>
     <li><a href="#graph">Graph</a></li>
     <li><a href="#agradecimientos">Agradecimientos</a></li>
